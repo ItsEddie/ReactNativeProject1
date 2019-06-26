@@ -1,5 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+//Soggy Shox was here
 
 export default function App() {
   return (
